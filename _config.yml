@@ -7,3 +7,4 @@ plugins:
 remote_theme: sblisesivdin/biscuit
 sass:
   style: compressed
+exclude: ["README.md"]
