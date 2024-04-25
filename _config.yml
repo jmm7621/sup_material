@@ -1,6 +1,6 @@
 markdown: GFM
 title: Supplamentary Materials
-description: Supplamentary materials to accompany the paper: Pay Attention to the Keys: Visual Piano Transcription Using Transformers
+description: "Supplamentary materials to accompany the paper: Pay Attention to the Keys: Visual Piano Transcription Using Transformers"
 plugins:
 - jekyll-remote-theme
 - jekyll-readme-index
