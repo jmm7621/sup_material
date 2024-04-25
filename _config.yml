@@ -5,3 +5,5 @@ plugins:
 - jekyll-remote-theme
 - jekyll-readme-index
 remote_theme: sblisesivdin/biscuit
+sass:
+  style: compressed
