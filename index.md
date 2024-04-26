@@ -1,4 +1,5 @@
 # Supplamentary Materials
+Supplamentary materials to accompany the paper: Pay Attention to the Keys: Visual Piano Transcription Using Transformers.
 
 ## Google Colab
 We provide a notebook on Google Colab which performs inference on a video from the R3s test dataset and saves the predictions to a MIDI and MP3 file.
