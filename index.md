@@ -1,4 +1,4 @@
-# Supplamentary Materials
+# Pay Attention to the Keys: Visual Piano Transcription Using Transformers: Supplamentary Materials
 Supplamentary materials to accompany the paper: Pay Attention to the Keys: Visual Piano Transcription Using Transformers.
 
 ## Google Colab
