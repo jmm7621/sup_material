@@ -2,7 +2,7 @@
 Supplamentary materials to accompany the paper: Pay Attention to the Keys: Visual Piano Transcription Using Transformers.
 
 ## Google Colab
-We provide a notebook on Google Colab which performs inference on a video from the R3s dataset and saves the predictions to a MIDI and MP3 file.
+We provide a notebook on Google Colab which performs inference on a video from the R3s dataset and saves the predictions to MIDI and WAV files.
 
 url: https://colab.research.google.com/drive/1ELUdXTQi9cxSBjqaw0y8dZ-Dbquqxj74?usp=sharing
 
