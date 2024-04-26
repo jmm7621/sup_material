@@ -3,7 +3,7 @@
 ## Google Colab
 We provide a notebook on Google Colab which performs inference on a video from the R3s test dataset and saves the predictions to a MIDI and MP3 file.
 
-url: https://colab.research.google.com/drive/1mgjDNR21lySXNVfpDVkY2oDNvYjdmgiQ?usp=sharing
+url: https://colab.research.google.com/drive/1ELUdXTQi9cxSBjqaw0y8dZ-Dbquqxj74?usp=sharing
 
 ## YouTube Playlist
 We showcase a variety of predictions on both the R3s and PianoYT datasets.
